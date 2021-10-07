@@ -9,7 +9,7 @@ Click on the link to see the video representation of this app https://www.loom.c
 2. Unzip the repositry.  
 3. Open google chrome type in the search bar  ```chrome://extensions/``` and hit Enter key.  
    1. After that enable ```Developer mode``` at the top right corner of the page.  
-   2. Click on Load Unpacked option and navigate to downloaded repositry  
+   2. Click on ```Load Unpacked``` option and navigate to downloaded repositry  
    3. Select the folder and open it.  
    4. Enable extension.  
 5. Installation Complete.  
@@ -30,4 +30,5 @@ If you click any button it will change the style of the selected text.
 • danishm306@gmail.com  
 
 # Acknowledgements:  
-• arrive.js v2.4.1 https://github.com/uzairfarooq/arrive
+• arrive.js v2.4.1  
+• https://github.com/uzairfarooq/arrive
