@@ -1,0 +1,38 @@
+.wrapper {
+    visibility: hidden;
+    width: 200px;
+    display: flex;
+    overflow-x: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    background-color: #fff;
+    margin: 4px 4px;
+    padding: 2px 4px;
+    font-size: 20px;
+    border: none;
+}
+.btn:hover{
+    background-color: darkgray;
+    border-radius: 5px;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+
+::selection {
+    color: red;
+    background: yellow;
+  }

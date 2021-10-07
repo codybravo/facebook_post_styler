@@ -1,0 +1,21 @@
+{
+  "name": "Facebook Post Styler",
+  "description": "This app will allow you style texts while creating facebook posts!",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+  },
+  "permissions": ["scripting", "clipboardWrite", "clipboardRead"],
+  "icons": {
+    "100": "/icons/icons8-facebook-64.png"
+  },
+  "host_permissions": ["*://*.facebook.com/*"],
+  "content_scripts": [
+    { 
+      "js": ["jquery-3.1.0.min.js", "arrive.js", "content.js"],
+      "css":["style.css"],
+      "matches": ["*://*.facebook.com/*"],
+      "run_at": "document_end"
+    }
+  ]
+}
