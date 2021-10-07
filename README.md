@@ -1,7 +1,7 @@
 # Facebook Post Styler  
 There is no option available in facebook to style(E.g, Bold, Italic, Underline etc) the text while creating a facebook post,
 This app allows you to do that.    
-Click on the link to see the video representation of this app ```https://www.loom.com/share/5fbfacab6b084ccfa5edd373beedf419```  
+Click on the link to see the video representation of this app https://www.loom.com/share/5fbfacab6b084ccfa5edd373beedf419
 
 
 # How to install!  
@@ -30,4 +30,4 @@ If you click any button it will change the style of the selected text.
 • danishm306@gmail.com  
 
 # Acknowledgements:  
-• arrive.js v2.4.1 ```https://github.com/uzairfarooq/arrive```
+• arrive.js v2.4.1 https://github.com/uzairfarooq/arrive
